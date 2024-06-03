@@ -21,7 +21,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="settings.h">
-      <Filter>Исходные файлы</Filter>
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="StructPerson.h">
+      <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
